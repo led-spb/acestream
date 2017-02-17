@@ -1,0 +1,10 @@
+# Copyright (c) 2010, 2012, 2013, 2014
+#       Thorsten Glaser <tg@mirbsd.org>
+# This file is provided under the same terms as mksh.
+#-
+# Minimal /system/etc/mkshrc for Android
+#
+# Support: https://launchpad.net/mksh
+ 
+PATH="/system/bin:/system/xbin"
+export PATH
